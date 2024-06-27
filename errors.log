@@ -1,0 +1,2 @@
+error: Campos requeridos faltantes: {"0":{"field":"name","type":"string"},"1":{"field":"price","type":"number"}}
+error: Campos requeridos faltantes: {"0":{"field":"name","type":"string"},"1":{"field":"price","type":"number"}}
